@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+	<string name="app_name">App6</string>
+	<string name="hello_world">Hello World!</string>
+	<string name="action_settings">Settings</string>
+
+	<string name="usuario">Usuario</string>
+	<string name="senha">Senha</string>
+	<string name="entrar">Entrar</string>
+	<string name="erro_autenticacao">Login invalido</string>
+    <string name="nova_viagem">Login invalido</string>
+    <string name="novo_gasto">Login invalido</string>
+    <string name="minhas_viagens">Login invalido</string>
+    <string name="configuracoes">Login invalido</string>
+
+
+</resources>
